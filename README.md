@@ -1,7 +1,6 @@
 # Fine-Tuning MetaCLIP-2 for Image Classification on Downstream Tasks
  
-
-![0](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/2ahO3T_m4xNqgPbR0y5rt.png)
+![0](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/uSttw8lB5U99ee-yCcrq1.png)
 
 ## [1.] Introduction
 
